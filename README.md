@@ -116,4 +116,4 @@ Jika teman-teman punya ide atau perbaikan koding aplikasi ini, silakan buat pull
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/bangtutorial/streamflow/blob/main/LICENSE)
 
-© 2025 - [RISMAWANMY](https://www.youtube.com/@rismawanmy)
+© 2025 - [MAWANDRO.ID](https://www.youtube.com/@rismawanmy)
